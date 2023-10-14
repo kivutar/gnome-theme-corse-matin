@@ -1,0 +1,17 @@
+@define-color accent_color #ffcd1d;
+@define-color accent_bg_color #ffcd1d;
+
+/*window.csd { border-radius: 0; }*/
+window>decoration, window>decoration-overlay, dialog>decoration { border: 2px solid black; /*border-radius: 0;*/ box-shadow: 4px 4px 0 black; }
+/*headerbar { border-radius: 0; }*/
+
+headerbar .title,
+windowtitle .title,
+button,
+.body,
+.heading,
+list label { /*font-weight: normal;*/ font-size: 11pt; }
+
+/*.card, * { box-shadow: 1px solid black; }*/
+
+scale slider { background-color: #ffcd1d; }

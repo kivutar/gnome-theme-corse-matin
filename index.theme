@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CorseMatin
+Comment=CorseMatin
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=CorseMatin
+MetacityTheme=CorseMatin
+IconTheme=CorseMatin
+CursorTheme=Kivutar-cursors
+ButtonLayout=close,minimize,maximize:menu

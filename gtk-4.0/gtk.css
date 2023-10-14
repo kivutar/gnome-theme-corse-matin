@@ -1,0 +1,13 @@
+@define-color accent_color #ffcd1d;
+@define-color accent_bg_color #ffcd1d;
+
+window { border: solid 2px black; /*border-radius: 0;*/ box-shadow: 4px 4px 0 black; }
+
+headerbar .title,
+windowtitle .title,
+button, .body,
+.heading { /*font-weight: normal;*/ font-size: 11pt; }
+
+/*.boxed-list, * { box-shadow: 1px solid black; }*/
+
+scale slider { background-color: #ffcd1d; }
